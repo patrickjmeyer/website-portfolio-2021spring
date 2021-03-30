@@ -3,8 +3,8 @@
   font-style: italic;
 }
 
-.button: link,
-.button: visited {
+.button:link,
+.button:visited {
 
   display: block;
   text-decoration: none;
@@ -35,7 +35,7 @@
   color: #FFF;
   background-color: #5995DA;
 }
-p:first-of-type {
+.page > p:first-of-type {
   color: #7E8184;
   font-style: italic;
 }
@@ -76,4 +76,8 @@ a:visited:active {
 }
 p:last-of-type{
   margin-bottom: 50px;
+}
+
+#button-2 {
+  color: #5D6063;
 }
