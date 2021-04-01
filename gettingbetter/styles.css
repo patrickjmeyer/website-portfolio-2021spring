@@ -1,3 +1,19 @@
 .header {
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
+
+.page {
+  display: flex;
+  justify-content: space-between
+}
+
+.sidebar {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
