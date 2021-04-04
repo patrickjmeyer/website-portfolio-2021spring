@@ -1,12 +1,29 @@
 @font-face {
-  font-family: Lato;
+  font-family: 'Roboto';
   src: url('Roboto-Light-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Lato-Light';
+  src: url('Lato-Light.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'LilitaOne-Regular';
+  src: url('LilitaOne-Regular.ttf') format('ttf');
 }
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+.body {
+  font-family: 'Lato-Light', sans-serif;
+  font-size: 14px;
+  line-height: 1.8em;
+  color: #5D6063;
 }
 
 .header-container {
