@@ -9,6 +9,11 @@
 }
 
 @font-face {
+  font-family: 'Lato-Regular';
+  src: url('Lato-Regular.ttf') format('truetype')
+}
+
+@font-face {
   font-family: 'LilitaOne';
   src: url('LilitaOne-Regular.ttf') format('truetype');
 }
@@ -35,6 +40,7 @@
 }
 
 .header {
+  font-family: 'LilitaOne';
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -57,6 +63,7 @@
 }
 
 .menu{
+  font-family: 'Lato-Regular';
   width: 900px;
   padding: 10px;
   display: flex;
@@ -64,16 +71,21 @@
 }
 
 .page {
+  margin: auto;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
   width: 600px;
 }
 
 .welcome {
+  display: flex;
   font-family: 'Lato-Bold'
 }
 
 .intro {
+  display: flex;
   font-family: 'Lato-Light';
 }
 
@@ -82,5 +94,5 @@
 }
 
 .featured-intro {
-
+  font-family: 'Lato-Bold';
 }
