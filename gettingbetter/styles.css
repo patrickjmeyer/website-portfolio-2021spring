@@ -104,3 +104,29 @@
 .description{
   font-family: 'Lato-Regular';
 }
+
+.post-link {
+
+}
+
+.blog-post {
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.article-title {
+  font-family: 'Lato-Bold';
+}
+
+.article-subtitle {
+  font-family: 'Lato-Regular';
+}
+
+.article-content {
+  font-family: 'Lato-Light';
+  margin-bottom: 20px;
+}
+
+.back-to-blog {
+  font-family: 'Lato-Bold';
+}
