@@ -81,7 +81,7 @@
 
 .welcome {
   display: flex;
-  font-family: 'Lato-Bold'
+  font-family: 'Lato-Bold';
 }
 
 .intro {
@@ -95,4 +95,12 @@
 
 .featured-intro {
   font-family: 'Lato-Bold';
+}
+
+.video-title {
+  font-family: 'Lato-Bold';
+}
+
+.description{
+  font-family: 'Lato-Regular';
 }
