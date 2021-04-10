@@ -1,6 +1,5 @@
--Find & edit font
--Use placeholder media to edit page formats
--Buttons for navigation
+-Fix spacing
+-Add footer
 
 Qs
 -Why font-face not working in body selector.
