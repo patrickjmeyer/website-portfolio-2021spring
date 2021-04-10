@@ -111,7 +111,9 @@ body {
 }
 
 .post-link {
-
+  font-family: 'Lato-Regular';
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .blog-post {
@@ -137,6 +139,10 @@ body {
   margin-bottom: 16px;
 }
 
+p+p {
+  margin-top: 12px;
+}
+
 .back-to-blog {
   font-family: 'Lato-Bold';
   font-size: 24px;
@@ -148,7 +154,10 @@ body {
 }
 
 .about-me-title {
-  font-family: 'Lato-Bold'
+  font-family: 'Lato-Bold';
+  font-size: 36px;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 .bio {
