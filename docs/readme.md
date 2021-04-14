@@ -1,5 +1,1 @@
-Your final project files (html, css, images, etc) should go in here. **One of those files should be called index.html**: it will become your landing page. (Otherwise, your site will land on this readme.)
-
-You can then publish this site to the open web: just go to your repository's Settings and scroll down to the GitHub Pages section, and change the source from "none" to "master branch /docs folder."
-
-![activate GitHub Pages from repo Settings by changing the source](https://github.com/benmiller314/cdm2020spring/blob/gh-pages/assets/img/github-pages-activate.gif?raw=true)
+Hi! Welcome to my Website Portfolio project, "Getting Better". It's a site meant to show miscellaneous aspects of my musical work (hence the scrapbook subtitle). Some (most) of it is rough, some of it is more polished, some of it is not actual music and is just me writing about other people's music! I hope you find at least a minute or two's worth of smiles, head bobs, or some form of enjoyment from this.
